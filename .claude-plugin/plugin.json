@@ -1,0 +1,13 @@
+{
+  "name": "focus-pl",
+  "version": "0.1.0",
+  "description": "Symulowana grupa fokusowa na polski rynek: dziesięć zwykłych osób i dziesięć osób decyzyjnych reaguje na produkt, potem jedna synteza z tablicą wyników i rankingiem zmian.",
+  "author": {
+    "name": "OverJK",
+    "url": "https://github.com/GameOwerMedia"
+  },
+  "homepage": "https://github.com/GameOwerMedia/focusPL",
+  "repository": "https://github.com/GameOwerMedia/focusPL",
+  "license": "MIT",
+  "keywords": ["focus-group", "personas", "poland", "polish", "user-research", "product-review"]
+}

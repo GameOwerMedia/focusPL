@@ -1,0 +1,23 @@
+{
+  "name": "focus-pl",
+  "owner": {
+    "name": "OverJK",
+    "url": "https://github.com/GameOwerMedia"
+  },
+  "metadata": {
+    "description": "focusPL: grupa fokusowa na polski rynek w jednym przebiegu.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "focus-pl",
+      "source": "./",
+      "description": "Symulowana grupa fokusowa na polski rynek: dziesięć zwykłych osób i dziesięć osób decyzyjnych reaguje na produkt, potem jedna synteza z tablicą wyników i rankingiem zmian.",
+      "version": "0.1.0",
+      "author": { "name": "OverJK" },
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["focus-group", "personas", "poland", "polish", "user-research", "product-review"]
+    }
+  ]
+}
